@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MauiGithubActions.Shared", "MauiGithubActions.Shared.csproj", "{E9A1B652-71B3-4F86-825E-E5DA54AAB8F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9A1B652-71B3-4F86-825E-E5DA54AAB8F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9A1B652-71B3-4F86-825E-E5DA54AAB8F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9A1B652-71B3-4F86-825E-E5DA54AAB8F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9A1B652-71B3-4F86-825E-E5DA54AAB8F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E85305C-DDD1-4AFC-B405-796383D919DD}
+	EndGlobalSection
+EndGlobal
