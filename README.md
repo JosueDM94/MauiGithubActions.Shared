@@ -1,0 +1,2 @@
+# MauiGithubActions.Shared
+Shared Repository
